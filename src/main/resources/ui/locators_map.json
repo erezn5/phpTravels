@@ -1,0 +1,5 @@
+{
+  "login_page_username_field": {"value": "input[name='username']","type": "css"},
+  "login_page_password_field": {"value": "input[name='password']","type": "css"},
+  "login_page_submit_button": {"value": "FormsButton2", "type": "name"}
+}
