@@ -142,5 +142,4 @@ public class PageElements {
     protected WebElement waitForClickableElm(By by){
         return waitForClickableElm(by, WAIT_TIMEOUT);
     }
-
 }
